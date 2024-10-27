@@ -10,7 +10,7 @@ import 'jsvectormap/dist/css/jsvectormap.css';
 import 'flatpickr/dist/flatpickr.min.css';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-    <Router>
+    <Router basename='/react-algebra-lineal'>
         <App />
         <ToastContainer />
     </Router>
