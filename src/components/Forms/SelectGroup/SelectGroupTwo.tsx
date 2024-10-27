@@ -22,7 +22,7 @@ const SelectGroupTwo: React.FC<SelectGroupTwoProps> = ({ setSelectedOption, disa
   return (
     <div className='mt-6'>
       <label className="mb-3 block text-black dark:text-white">
-        Seleccione el Destino
+        Seleccione el Origen
       </label>
 
       <div className="relative z-20 bg-white dark:bg-form-input">

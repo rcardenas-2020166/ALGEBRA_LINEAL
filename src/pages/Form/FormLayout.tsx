@@ -215,7 +215,7 @@ const FormLayout = () => {
 
   return (
     <>
-      <Breadcrumb pageName="Algoritmo de Dijkstra" />
+      <Breadcrumb pageName="Algoritmo de Dijkstra - Matrices y Vectores 2D" />
 
       <div className="grid grid-cols-1 gap-9 sm:grid-cols-2">
         <div className="flex flex-col gap-9">

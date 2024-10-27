@@ -20,6 +20,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "apexcharts": "^3.41.0",
     "flatpickr": "^4.6.13",
+    "github-pages": "^3.0.2",
     "headlessui": "^0.0.0",
     "jsvectormap": "^1.5.3",
     "match-sorter": "^6.3.1",
